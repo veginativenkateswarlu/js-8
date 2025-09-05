@@ -49,6 +49,7 @@ li {
   justify-content: space-between;
   margin-bottom: 10px;
   align-items: center;
+  color:cornflowerblue
 }
 
 li input[type="text"] {
